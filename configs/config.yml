@@ -16,11 +16,11 @@ version: "1.2.9"
 
 general:
   # Name of the Bot
-  name: "Champion Ultra"
+  name: "ادمن المضرطه"
   # Bot's Prefix
-  prefix: "+"
+  prefix: "@"
   # Bot Token obtained from Discord Developer Portal
-  token: ""
+  token: "MTU2MzM4MDM1NTkzNzg2MTc3NA.GSILcC.-ad9rlk5Eq_xEhQ48JZjlxu3PZ1uosQ5AQPooI"
   # ID of Guild in which Bot will be used
   # Used for Custom Status Stats and similar
   guild: ""
